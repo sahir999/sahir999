@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm Sk Sahir Box
 
-<!--
-**sahir999/sahir999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Software Engineer with hands-on experience building responsive and scalable web applications using React.js and Next.js. Currently working at Web Spiders (India) Pvt. Ltd., contributing to live projects involving UI development, REST API integration, and modern component-based architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- React.js, Next.js
+- JavaScript, TypeScript
+- Redux, Zustand, TanStack Query
+- HTML, CSS
+- Git, GitHub, Vercel
+
+---
+
+## 🌐 Connect with me
+- GitHub: https://github.com/sahir999
+- LinkedIn: https://linkedin.com/in/sk-sahir-box-3b611a228
+- LeetCode: https://leetcode.com/u/Sahir2003/
